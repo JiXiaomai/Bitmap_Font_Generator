@@ -1,0 +1,18 @@
+# Visual Studio / VB.NET build artifacts
+bin/
+obj/
+.vs/
+Debug/
+Release/
+*.user
+*.suo
+*.userosscache
+*.userprefs
+*.pdb
+*.cache
+*.log
+packages/
+TestResults/
+*.nupkg
+.DS_Store
+Thumbs.db
